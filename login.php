@@ -12,7 +12,7 @@
 </head>
 
 <body>
-	<div id="logo" align="center"><img src="<?php echo base_url();?>/images/logo50.png"></div>
+	<div id="logo" align="center"><img src="<?php echo base_url();?>/images/logo.png"></div>
 
 	<div id="login">
 		<?php echo form_open('login') ?>
