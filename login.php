@@ -44,7 +44,7 @@
 		<?php echo form_close(); ?>
 
 		<!-- <h1>Open Source Point Of Sale <?php echo $this->config->item('application_version'); ?></h1> -->
-		<h1>Bubun Diesel POS Ciruang</h1>
+		<h1>BUBUN DIESEL CIRUANG</h1>
 
 	</div>
 </body>
